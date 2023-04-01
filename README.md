@@ -1,5 +1,5 @@
 # Sentimental_Analysis.
-This sentiment analysis project uses Twitter and Reddit data to determine the sentiment of posts and comments.<br>
+This sentiment analysis project uses Twitter and Reddit data to determine the sentiment of comments.<br>
 
 **Project Overview**<br>
 The project uses natural language processing (NLP) techniques to analyze the sentiment of text data. Specifically, it employs a pre-trained machine learning model to classify text data as positive, negative, or neutral. The project extracts data from Twitter and Reddit, preprocesses it, and applies the pre-trained model to predict the sentiment of each post or comment.<br>
